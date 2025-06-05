@@ -12,6 +12,7 @@ env/
 .venv/
 .env/
 .DS_Store
+.idea
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
